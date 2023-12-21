@@ -1,4 +1,4 @@
-# Bem-vindo à [Nome da Empresa] - Sua Oficina de Automóveis de Confiança
+## Bem-vindo à Oficina Faro - Sua Oficina de Automóveis de Confiança
 
 ## Nossos Serviços
 
@@ -24,14 +24,17 @@ Deseja dar um toque pessoal ao seu veículo? Oferecemos serviços de personaliza
 
 ## Compromisso com a Qualidade
 
-Na [Nome da Empresa], a qualidade é a nossa prioridade. Utilizamos peças e equipamentos de alta qualidade em todos os nossos serviços, e nossa equipe está empenhada em garantir a satisfação do cliente em cada visita.
+Na Oficina Faro, a qualidade é a nossa prioridade. Utilizamos peças e equipamentos de alta qualidade em todos os nossos serviços, e nossa equipe está empenhada em garantir a satisfação do cliente em cada visita.
 
 ## Entre em Contato Conosco
 
 Estamos aqui para atender todas as suas necessidades automotivas. Entre em contato conosco para marcar uma consulta ou para obter mais informações sobre nossos serviços.
 
-- **Telefone:** [Insira o número de telefone]
-- **Email:** [Insira o endereço de email]
-- **Endereço:** [Insira o endereço físico da oficina]
+| contactos       | redes sociais                |
+| --------------- | ---------------------------- |
+| Email           | oficinafarotp3@gmail.com     |
+| Apoio cliente   | +351 919 123 123             |
+| Morada          | Rua de Faro, Faro            |
+| Instagram       | oficinaFaro                  |
 
-Confie na [Nome da Empresa] para todos os seus serviços automotivos. Estamos ansiosos para servi-lo!
+Confie na Oficina Faro para todos os seus serviços automotivos. Estamos ansiosos para servi-lo!
