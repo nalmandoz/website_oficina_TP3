@@ -1,7 +1,11 @@
 # Nossos Serviços
 
-## Bem-vindo à Oficina Faro - Sua Oficina de Automóveis de Confiança
- 
+
+<p align="center">
+
+  ## Bem-vindo à Oficina Faro - Sua Oficina de Automóveis de Confiança
+</p> 
+
 ### Manutenção Preventiva
 
 Mantenha seu veículo em ótimo estado com nossos serviços de manutenção preventiva. Realizamos verificações abrangentes e trocas de óleo regulares para garantir o desempenho ideal do seu carro.
@@ -30,11 +34,14 @@ Na Oficina Faro, a qualidade é a nossa prioridade. Utilizamos peças e equipame
 
 Estamos aqui para atender todas as suas necessidades automotivas. Entre em contato conosco para marcar uma consulta ou para obter mais informações sobre nossos serviços.
 
+<p align="center">
+
 | contactos       | redes sociais                |
 | --------------- | ---------------------------- |
 | Email           | oficinafarotp3@gmail.com     |
 | Apoio cliente   | +351 919 123 123             |
 | Morada          | Rua de Faro, Faro            |
 | Instagram       | oficinaFaro                  |
+</p>
 
 Confie na Oficina Faro para todos os seus serviços automotivos. Estamos ansiosos para servi-lo!
