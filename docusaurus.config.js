@@ -95,6 +95,10 @@ const config = {
                 label: 'informações',
                 to: '/docs/intro',
               },
+              {
+                label: 'Nossos serviços',
+                to: '/docs/oqfazemos',
+              },
             ],
           },
           {
