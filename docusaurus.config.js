@@ -106,19 +106,15 @@ const config = {
             items: [
               {
                 label: 'Email: oficinafarotp3@gmail.com',
-                href: 'oficinafarotp3@gmail.com',
               },
               {
                 label: 'Número apoio ao cliente: +351 919 123 123',
-                href: '+351 919 123 123',
               },
               {
                 label: 'Morada: Rua de Faro, Faro',
-                href: '',
               },
               {
                 label: 'Instagram: oficinaFaro',
-                href: 'https://www.instagram.com/oficinaFaro/',
               },
             ],
           },
