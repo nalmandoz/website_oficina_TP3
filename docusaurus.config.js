@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Oficina Faro',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -79,7 +79,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/a85242/TP_ADC-Faturas_oficina_automovel',
             label: 'GitHub',
             position: 'right',
           },
@@ -89,28 +89,36 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'O nosso apoio',
             items: [
               {
-                label: 'Tutorial',
+                label: 'informações',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Nossos serviços',
+                to: '/docs/oqfazemos',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Contacto',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Email: oficinafarotp3@gmail.com',
+                href: 'oficinafarotp3@gmail.com',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Número apoio ao cliente: +351 919 123 123',
+                href: '+351 919 123 123',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Morada: Rua de Faro, Faro',
+                href: '',
+              },
+              {
+                label: 'Instagram: oficinaFaro',
+                href: 'https://www.instagram.com/oficinaFaro/',
               },
             ],
           },
