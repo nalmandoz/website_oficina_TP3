@@ -1,6 +1,6 @@
 ## Bem-vindo à Oficina Faro - Sua Oficina de Automóveis de Confiança
-
-## Nossos Serviços
+ 
+# Nossos Serviços
 
 ### Manutenção Preventiva
 
