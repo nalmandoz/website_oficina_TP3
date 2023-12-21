@@ -102,19 +102,23 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Contacto',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Email: oficinafarotp3@gmail.com',
+                href: 'oficinafarotp3@gmail.com',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Número apoio ao cliente: +351 919 123 123',
+                href: '+351 919 123 123',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Morada: Rua de Faro, Faro',
+                href: '',
+              },
+              {
+                label: 'Instagram: oficinaFaro',
+                href: 'https://www.instagram.com/oficinaFaro/',
               },
             ],
           },
