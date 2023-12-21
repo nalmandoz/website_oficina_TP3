@@ -2,46 +2,52 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Ajuda
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Verificamos que está a ter um problema. Disponibilizamos nesta página artigos que o podem ajudar. Em caso de **dúvida**, contacte o nosso *apoio ao cliente*.
 
-## Getting Started
+## Perguntas frequentes
 
-Get started by **creating a new site**.
+##### Há serviço de reboques?
+> Sim, em parceria com [Reboques de Faro](https://reboquesfaro.pt).
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+##### Como posso agendar uma revisão para o meu veículo?
+> É possível agendar uma revisão para o seu veículo. Pode marcar presencialmente com os nossos técnicos. Também pode telefonar para o apoio ao cliente. Recomendamos que entre em contato conosco antecipadamente para garantir disponibilidade.
 
-### What you'll need
+##### Qual é o horário de funcionamento da oficina?
+> O horário de funcionamento da oficina é de segunda a sexta-feira, das 8h às 18h. Aos sábados, estamos abertos das 9h às 13h.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+##### Vocês oferecem serviços de alinhamento e balanceamento?
+> Sim, oferecemos serviços de alinhamento e balanceamento de rodas para garantir o desempenho adequado do seu veículo. Entre em contato para agendar esse serviço.
 
-## Generate a new site
+##### A oficina realiza serviços de troca de óleo?
+> Sim, realizamos serviços de troca de óleo. Recomendamos seguir as recomendações do fabricante do seu veículo para manter o motor em bom estado.
 
-Generate a new Docusaurus site using the **classic template**.
+##### Posso solicitar orçamento para um conserto específico antes de autorizar o serviço?
+> Sim, pode solicitar um orçamento detalhado para qualquer serviço específico antes de autorizar qualquer trabalho. Estamos comprometidos em fornecer transparência nos custos.
 
-The classic template will automatically be added to your project after you run the command:
+##### Qual é a política de garantia para os serviços prestados?
+> Oferecemos garantia para os serviços prestados. A duração da garantia pode variar dependendo do tipo de serviço. Entre em contato para obter informações detalhadas sobre a garantia.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+##### Como faço para marcar um diagnóstico para o meu veículo com problemas mecânicos?
+> Para marcar um diagnóstico para o seu veículo, entre em contato conosco e agende uma consulta. Nossa equipe de especialistas estará pronta para avaliar e diagnosticar os problemas do seu veículo.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+##### Posso comprar peças de reposição diretamente na oficina?
+> Sim, é possível adquirir peças de reposição diretamente na oficina. Nossa equipe pode ajudar a encontrar as peças certas para as necessidades do seu veículo.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+##### Quais métodos de pagamento são aceitos na oficina?
+> Aceitamos pagamentos em dinheiro, cartões de débito e crédito. Certifique-se de verificar os métodos de pagamento disponíveis antes de realizar qualquer serviço.
 
-## Start your site
+###### Ainda precisa de ajuda?
 
-Run the development server:
+Lamentamos não ter encontrado a sua solução nesta página. Poderá contactar os nossos técnicos para uma ajuda personalizada.
 
-```bash
-cd my-website
-npm run start
-```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## Contactos
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+| contactos       | redes sociais                |
+| --------------- | ---------------------------- |
+| Email           | oficinafarotp3@gmail.com     |
+| Apoio cliente   | +351 919 123 123             |
+| Morada          | Rua de Faro, Faro            |
+| Instagram       | oficinaFaro                  |
