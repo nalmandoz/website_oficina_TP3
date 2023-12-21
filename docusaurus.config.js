@@ -92,12 +92,8 @@ const config = {
             title: 'O nosso apoio',
             items: [
               {
-                label: 'informações',
+                label: 'Ajuda',
                 to: '/docs/intro',
-              },
-              {
-                label: 'Nossos serviços',
-                to: '/docs/oqfazemos',
               },
             ],
           },
