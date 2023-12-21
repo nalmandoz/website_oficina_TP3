@@ -92,8 +92,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Ajuda',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Nossos serviços',
+                to: '/docs/oqfazemos',
               },
             ],
           },
