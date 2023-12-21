@@ -89,7 +89,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'O nosso apoio',
+            title: 'Comunidade',
             items: [
               {
                 label: 'Ajuda',
@@ -98,6 +98,47 @@ const config = {
             ],
           },
           {
+            title: 'Community',
+            items: [
+              {
+                label: 'avaliaçoes online',
+                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              },
+              {
+                label: 'maps',
+                href: 'https://maps.app.goo.gl/qXkPyV4kyUk4ikCNA',
+              },
+              {
+                label: 'instagram',
+                href: 'https://instagram',
+              },
+            ],
+          },
+          {
+            title: 'More',
+            items: [
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/facebook/docusaurus',
+              },
+            ],
+          },
+        ],
+        copyright: `Copyright © ${new Date().getFullYear()} oficina automovel, Inc. Built with Docusaurus.`,
+      },
+      prism: {
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
+      },
+    }),
+};
+
+module.exports = config;
+          /*{
             title: 'Community',
             items: [
               {
@@ -147,4 +188,4 @@ const config = {
     }),
 };
 
-module.exports = config;
+module.exports = config;*/
