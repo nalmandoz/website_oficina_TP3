@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Oficina Faro',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -89,28 +89,28 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'O nosso apoio',
             items: [
               {
-                label: 'Tutorial',
+                label: 'informações',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'redes sociais',
             items: [
               {
-                label: 'Stack Overflow',
+                label: 'avaliaçoes online',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'maps',
+                href: 'https://maps.app.goo.gl/qXkPyV4kyUk4ikCNA',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'instagram',
+                href: 'https://instagram',
               },
             ],
           },
