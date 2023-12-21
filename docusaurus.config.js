@@ -79,7 +79,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/a85242/TP_ADC-Faturas_oficina_automovel',
             label: 'GitHub',
             position: 'right',
           },
