@@ -101,7 +101,6 @@ const config = {
             title: 'Community',
             items: [
               {
-<<<<<<< HEAD
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
@@ -112,8 +111,6 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/docusaurus',
-=======
-                label: 'Email: oficinafarotp3@gmail.com',
               },
               {
                 label: 'Número apoio ao cliente: +351 919 123 123',
@@ -123,7 +120,7 @@ const config = {
               },
               {
                 label: 'Instagram: oficinaFaro',
->>>>>>> a9973748e51ddd3174d057fbae2c2cb82abab401
+
               },
             ],
           },
