@@ -102,19 +102,23 @@ const config = {
             ],
           },
           {
-            title: 'redes sociais',
+            title: 'Contacto',
             items: [
               {
-                label: 'avaliaçoes online',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Email: oficinafarotp3@gmail.com',
+                href: 'oficinafarotp3@gmail.com',
               },
               {
-                label: 'maps',
-                href: 'https://maps.app.goo.gl/qXkPyV4kyUk4ikCNA',
+                label: 'Número apoio ao cliente: +351 919 123 123',
+                href: '+351 919 123 123',
               },
               {
-                label: 'instagram',
-                href: 'https://instagram',
+                label: 'Morada: Rua de Faro, Faro',
+                href: '',
+              },
+              {
+                label: 'Instagram: oficinaFaro',
+                href: 'https://www.instagram.com/oficinaFaro/',
               },
             ],
           },
