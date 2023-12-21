@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'oficina automovel de Faro',
-  tagline: 'revisões, arranjo e aconcelhamento proficional',
+  tagline: 'revisões, arranjo e aconcelhamento profissional',
   favicon: 'img/ofi_faro.svg',
 
   // Set the production url of your site here
